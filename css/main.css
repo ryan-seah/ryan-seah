@@ -1,0 +1,17 @@
+
+#navbar th {
+    border-color: black;
+    background-color: lightsteelblue;
+    border-style: solid;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+.stats {
+    color: purple;
+}
+
+.active {
+    background-color: lightcoral;
+}
